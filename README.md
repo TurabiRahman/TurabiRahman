@@ -115,3 +115,15 @@ A collection of my Codeforces problem solutions to strengthen my Data Structures
 A JavaFX-based task management application featuring CRUD operations, progress tracking, and a modern desktop UI.
 
 ---
+## 🧠 Competitive Programming
+
+I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving skills and algorithmic thinking.
+
+### Platforms
+
+* 💻 Codeforces: **AshenLucifer**
+* 🟠 LeetCode: **TurabiRahman**
+
+These platforms help me improve my understanding of algorithms, data structures, and efficient coding techniques that are essential for backend engineering and technical interviews.
+
+---
