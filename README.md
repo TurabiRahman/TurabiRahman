@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Turabi Rahman</h1>
 
 <h3 align="center">
@@ -70,7 +70,6 @@ Backend Engineer in Progress • Computer Science Student • Passionate Problem
 
 ---
 
-```markdown
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -93,4 +92,26 @@ Backend Engineer in Progress • Computer Science Student • Passionate Problem
 </p>
 
 ---
-```
+## 🚀 Featured Projects
+
+### 📈 Uptime Monitoring API
+
+A RESTful uptime monitoring API built using **Node.js**, focusing on backend architecture, routing, and monitoring concepts.
+
+### 🍔 QuickBite
+
+A collaborative canteen management system built as a team project.
+
+### ☕ Express Learning
+
+My journey of learning Express.js by building REST APIs, middleware, routing, and backend applications.
+
+### 🧠 Competitive Programming
+
+A collection of my Codeforces problem solutions to strengthen my Data Structures and Algorithms skills.
+
+### ✅ Done n Dusted
+
+A JavaFX-based task management application featuring CRUD operations, progress tracking, and a modern desktop UI.
+
+---
