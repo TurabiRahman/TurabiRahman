@@ -35,4 +35,38 @@ Backend Engineer in Progress • Computer Science Student • Passionate Problem
 - Writing clean and maintainable code
 
 ---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,java,cpp,c" />
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### Currently Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,redis" />
+</p>
+
+---
 ```
