@@ -80,7 +80,7 @@ Backend Engineer in Progress • Computer Science Student • Passionate Problem
 
   <img
     height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TurabiRahman&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=TurabiRahman&theme=github-dark&hide_border=true"
   />
 </p>
 
@@ -90,7 +90,6 @@ Backend Engineer in Progress • Computer Science Student • Passionate Problem
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurabiRahman&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
-
 ---
 ## 🚀 Featured Projects
 
