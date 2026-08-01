@@ -73,10 +73,10 @@ Backend Engineer in Progress • Computer Science Student • Passionate Problem
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
+  <!-- <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=TurabiRahman&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  />
+  /> -->
 
   <img
     height="170"
@@ -84,12 +84,12 @@ Backend Engineer in Progress • Computer Science Student • Passionate Problem
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     width="420"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurabiRahman&layout=compact&theme=github_dark&hide_border=true"
   />
-</p>
+</p> -->
 ---
 ## 🚀 Featured Projects
 
